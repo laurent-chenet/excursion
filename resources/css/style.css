@@ -23,9 +23,15 @@ h2 {
   text-align: center;
 }
 
-img {
+img, video {
   display: block;
   margin: auto;
+}
+
+footer {
+  font-family: Verdana;
+  text-align: right;
+  color: gray;
 }
 
 #applink {
